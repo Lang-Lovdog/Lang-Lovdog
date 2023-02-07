@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lang-Lovdog
 - 👀 I’m interested in science and arts.
-- 🌱 I’m currently learning Cumpersysteme, Calligraphy, Music and some languages.
+- 🌱 I’m currently learning Computersysteme, Calligraphy, Music and some languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
